@@ -5,7 +5,7 @@ prefeito um dia irá fazer esse readme, um dia.
 é… esse perfil tá com nada ainda, um dia vai ter, um dia.
 
 ### 🚀 Linguagens:
-Aqui estão as linguagens que usei desde que programo, mas por ser um hobby, não tenho experiência 
+Aqui estão as linguagens que usei desde 2023, Quando comecei.
 
 <div style="display: flex; justify-content: space-around; align-items: center; gap: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-original.svg" alt="C" width="40" height="40">
