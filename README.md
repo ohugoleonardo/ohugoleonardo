@@ -1,6 +1,6 @@
 <h2 align="center">👋 Olá, Eu sou o Hugo!</h2>
 <p align="center">
-   💻 Um Desenvolvedor <strong style="color:purple">Java/Kotlin</strong> Iniciante
+   💻 Um Desenvolvedor <strong style="color:purple">Java/Kotlin</strong>
 </p>
 
 <h2 align="center">Tecnologias 🔧</h2>
@@ -8,12 +8,12 @@
 ---
 
 <div align="center">
-  <p>todo: add shields</p>
+  <p>java, kotlin, c, python, sqlite</p>
 </div>
 
 <h2 align="center">Technologias Futuras 🖥️</h2>
 <div align="center">
-   <p>todo: add shields</p>
+   <p>spring, nodejs, javascript, c++, html, css, rust, go</p>
 </div>
 
 <h2 align="center">Estatísticas do Github 📊</h2>
